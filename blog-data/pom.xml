@@ -10,6 +10,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.magician-lin.blog</groupId>
-    <artifactId>data</artifactId>
+    <artifactId>blog-data</artifactId>
 
 </project>
